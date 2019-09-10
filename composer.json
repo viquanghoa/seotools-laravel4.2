@@ -1,0 +1,20 @@
+{
+    "name": "grouphub/seotools",
+    "description": "",
+    "authors": [
+        {
+            "name": "Kornelius Kristian R",
+            "email": "korneliuskristian@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "4.2.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Grouphub\\Seotools": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
